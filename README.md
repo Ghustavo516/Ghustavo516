@@ -2,15 +2,17 @@
 
 ## Olá! eu sou o Gustavo Rodrigues ✌️
 
-#### Estou no 2° ano do curso de Sistemas Embarcados na Faculdade de Tecnologia de Jundiaí - FATEC 
-#### Apaixonado por programação💻 e robótica🤖
+###Estou graduando no curso de Sistemas Embarcados na Faculdade de Tecnologia de Jundiaí - Fatec Jundiaí,
+###Formado em Mecânico de Usinagem - Senai Jundiaí,
+###Apaixonado por tecnologia, eletrônica, segurança da informação e inteligência artificial 🖥️,
+###Gosto de desenvolver projetos como dispositivos embarcados, robótica, dispositivos IoT e automatização de processos através de programação computacional.
 
 <br>
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gu_roodri/)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavo100RODRIGUES)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/gustavo100RODRIGUES)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-b99385144/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ghustavo516@gmail.com)
 
 
