@@ -1,12 +1,12 @@
 
 
-## Olá! eu sou o Gustavo Rodrigues ✌️
+<h1>Olá! Meu nome é Gustavo Rodrigues ✌️</h1>
 
-Estou graduando no curso de Sistemas Embarcados na Faculdade de Tecnologia de Jundiaí - Fatec Jundiaí<br>
-Formado em Mecânico de Usinagem - Senai Jundiaí<br>
-Apaixonado por Tecnologia, Eletrônica, Segurança da Informação e Inteligência Artificial 🖥️<br>
-Gosto de desenvolver projetos como Dispositivos Embarcados, Robótica, Dispositivos IoT e Automatização de processos através de programação computacional<br>
-Minha missão é ajudar as pessoas utilizando tecnologia para solucionar problemas e tornar o dia a dia das pessoas melhores.
+ ● Estou graduando no curso de Sistemas Embarcados na Faculdade de Tecnologia de Jundiaí - Fatec Jundiaí ,<br>
+ ● Formado em Mecânico de Usinagem - Senai Jundiaí 🛠,<br>
+ ● Apaixonado por Tecnologia, Eletrônica, Segurança da Informação e Inteligência Artificial 🖥️🤖,<br>
+ ● Gosto de desenvolver projetos como Dispositivos Embarcados, Robótica, Dispositivos IoT e Automatização de processos através de programação computacional,<br>
+ ● Minha missão é ajudar as pessoas utilizando tecnologia para solucionar problemas e tornar o dia a dia das pessoas melhores ⌖🎯⌖.
 <br>
 
 
