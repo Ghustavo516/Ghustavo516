@@ -6,8 +6,7 @@ Estou graduando no curso de Sistemas Embarcados na Faculdade de Tecnologia de Ju
 Formado em Mecânico de Usinagem - Senai Jundiaí<br>
 Apaixonado por Tecnologia, Eletrônica, Segurança da Informação e Inteligência Artificial 🖥️<br>
 Gosto de desenvolver projetos como Dispositivos Embarcados, Robótica, Dispositivos IoT e Automatização de processos através de programação computacional<br>
-Gosto de ajudar pessoas promovendo a tecnologia no dia a dia, solucionando problemas e fazendo com que tarefas complicadas acabem se tornando simples e divertidas.
-
+Minha missão é ajudar as pessoas utilizando tecnologia para solucionar problemas e tornar o dia a dia das pessoas melhores.
 <br>
 
 
