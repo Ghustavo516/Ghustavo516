@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:19549C,100:1BA6A8&height=250&section=header&text=Gustavo%20Rodrigues&fontSize=70&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20Pleno%20%7C%20Java%20%7C%20Angular%20%7C%20Microservices&descAlignY=55&descSize=20&animation=fadeIn" alt="Header GitHub" />
 </div>
 
-## 👋 Olá! 
+## 👋 Olá, Seja Bem-Vindo! 
 
 Sou um **Desenvolvedor Full Stack Pleno** apaixonado por engenharia de software, focado em construir sistemas escaláveis, resilientes e de alta performance. Tenho forte atuação no ecossistema **Java (Spring Boot / Quarkus)** no backend e **Angular** no frontend, unindo design de código limpo com entregas que geram valor real para o negócio.
 
